@@ -1,0 +1,2 @@
+(this["webpackJsonpreact_phone-catalog"]=this["webpackJsonpreact_phone-catalog"]||[]).push([[5],{65:function(e,n,t){"use strict";t.r(n),t.d(n,"HomePage",(function(){return o}));var a=t(0),c=t.n(a),o=function(){return c.a.createElement("h1",null,"Home page")}}}]);
+//# sourceMappingURL=5.26296686.chunk.js.map

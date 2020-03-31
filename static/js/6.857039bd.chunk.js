@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_phone-catalog"]=this["webpackJsonpreact_phone-catalog"]||[]).push([[6],{57:function(e,n,t){"use strict";t.r(n),t.d(n,"NotFound",(function(){return c}));var a=t(0),o=t.n(a),c=(t(18),function(){return o.a.createElement("div",{className:"not-found"},o.a.createElement("h3",{className:"not-found__header"},"This page not found"))})}}]);
-//# sourceMappingURL=6.857039bd.chunk.js.map
